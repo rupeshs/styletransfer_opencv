@@ -1,5 +1,5 @@
 # styletransfer_opencv
-Style transfer using OpenCV 4
+Fast style transfer using OpenCV 4
 
 Fast style transfer using torch network
 
